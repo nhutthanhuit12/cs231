@@ -47,10 +47,10 @@ Dự án thực hiện các thí nghiệm trên nhiều phương pháp tiếp c�
 ## 📈Kết quả (Results)
 | Method | Accuracy | F1-Score (Weighted) |
 | :--- | :---: | :---: |
-| **RESNET50** | 0.925428 | 0.924075 |
-| **SIFT** | 0.596577 | 0.587918 |
-| **HIST** | 0.422983 | 0.413607 |
-| **HOG** | 0.249389 | 0.242226 |
+| **RESNET50** | 0.9254 | 0.9241 |
+| **SIFT** | 0.5966 | 0.5879 |
+| **HIST** | 0.4230 | 0.4136 |
+| **HOG** | 0.2494 | 0.2422 |
 
 ## ⚙ Cài đặt & Hướng dẫn sử dụng
 Bước 1: Clone dự án
