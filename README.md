@@ -29,7 +29,7 @@ Nhóm sử dụng bộ dữ liệu **Oxford 102 Flowers Dataset**
 - **Số lượng:** 102 loại hoa, tổng cộng hơn 8.000 hình ảnh.
 - **Cấu trúc thư mục:**
 ```text
-  data/
+  dataset/
   ├── train/
   │   ├── class_1/
   │   └── ...
